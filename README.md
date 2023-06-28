@@ -9,7 +9,7 @@ Example mod for Ultreon Craft
 ## Install a Mod
 1. Get the mod you want, by either downloading or making one.
 2. Go to the mods folder.  
-   On Windows it should be at `%appdata%\AppData\.ultreon-craft`
-   On Linux or macOS it should be at `~/.ultreon-craft`
+   On Windows it should be at `%appdata%\AppData\.ultreon-craft`  
+   On Linux or macOS it should be at `~/.ultreon-craft`  
    On any other platform it should be at `~/Games/UltreonCraft`
 3. Start the game.
