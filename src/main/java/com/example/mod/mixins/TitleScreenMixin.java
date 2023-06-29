@@ -1,7 +1,7 @@
-package me.qboi.craft.mixins;
+package com.example.mod.mixins;
 
 import com.ultreon.craft.render.gui.screens.TitleScreen;
-import me.qboi.craft.Main;
+import com.example.mod.Main;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
