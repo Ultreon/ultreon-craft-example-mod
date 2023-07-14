@@ -10,8 +10,6 @@ import com.ultreon.libs.collections.v0.util.ArrayUtils;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 
-import java.util.Arrays;
-
 public class Main implements ModInitializer {
     public static final String MOD_ID = "examplemod";
     public static final Logger LOGGER = GamePlatform.instance.getLogger("ExampleMod");
