@@ -19,10 +19,9 @@ dependencies {
     testImplementation platform('org.junit:junit-bom:5.9.1')
     testImplementation 'org.junit.jupiter:junit-jupiter'
 
-    implementation "com.github.Ultreon.ultreon-craft:core:$ultreon_craft_version"
-    implementation "com.github.Ultreon.ultreon-craft:desktop:$ultreon_craft_version"
-    implementation "com.github.Ultreon.ultreon-craft:desktop:$ultreon_craft_version"
-    implementation "com.github.Ultreon.ultreon-craft:gameprovider:$ultreon_craft_version"
+    implementation "com.github.Ultreon.ultracraft:core:$ultreon_craft_version"
+    implementation "com.github.Ultreon.ultracraft:desktop:$ultreon_craft_version"
+    implementation "com.github.Ultreon.ultracraft:gameprovider:$ultreon_craft_version"
 
     implementation "com.badlogicgames.gdx:gdx-backend-lwjgl3:1.11.0"
     implementation "com.badlogicgames.gdx:gdx-platform:1.11.0:natives-desktop"
